@@ -1,0 +1,4 @@
+(loremn) -> n =  any value. 
+Ex: lorem100 -> This will generate 100 words for you. you can give any value to ask for that amount of lines.
+
+
