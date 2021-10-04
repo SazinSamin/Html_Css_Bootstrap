@@ -6,6 +6,8 @@
         /* display: block; */
         background-color: aqua;
         border-radius: 20px 20px;
+        /* text-decoration: none will remove the line under the link */
+        text-decoration: none;
 }
 
 /* Design if the link never visited */
