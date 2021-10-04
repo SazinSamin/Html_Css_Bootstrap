@@ -21,6 +21,15 @@ h3, h4{
 }
 
 
+/* select multple classes at a time */
+#Commit, #Cancel{
+        background-color: green;
+        border: 10px solid gray;
+        padding: 10px;
+        opacity: 0.5;
+}
+
+
 
 
 
@@ -29,6 +38,8 @@ h3, h4{
         font-size: 12px;
         color: blue;
 }
+
+
 
 
 
