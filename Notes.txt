@@ -1,0 +1,2 @@
+An id also has a higher specificity (importance) than a class so if both are applied to the same element
+and have conflicting styles, the styles of the id will be applied.
