@@ -1,2 +1,7 @@
-An id also has a higher specificity (importance) than a class so if both are applied to the same element
-and have conflicting styles, the styles of the id will be applied.
+# An id also has a higher specificity (importance) than a class so if both are applied to the same element
+  and have conflicting styles, the styles of the id will be applied.
+
+
+# An element's padding controls the amount of space between the element's content and its border.
+# An element's margin controls the amount of space between an element's border and surrounding elements.
+  - If you set an element's margin to a negative value, the element will grow larger.
