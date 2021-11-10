@@ -41,18 +41,6 @@ h3, h4{
 
 
 
-/* attribute selector */
-/* [attr = value] */
-[type="checkbox"]{
-        display:grid;
-}
-
-
-
-
-
-
-
 
 /* class selector*/
 .news{
@@ -78,5 +66,14 @@ h3, h4{
 .ListItems ol li{
         padding: 10px;
         color: blue;
+}
+
+
+
+
+/* attribute selector */
+/* [attr = value] */
+[type="checkbox"]{
+        display:grid;
 }
 
