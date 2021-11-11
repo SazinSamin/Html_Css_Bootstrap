@@ -1,0 +1,17 @@
+/* https://www.w3schools.com/css/css3_variables.asp */
+
+:root{
+        /* css variable declearation */
+        --myColor: rgb(0, 246, 62);
+        --backgroundColor: blue;
+        --borderColor: yellow; 
+        --myPadding: 10px
+}
+
+        .colorVar{
+                /* use of css decleared variable  */
+                color: var(--myColor);
+                background-color: var(--backgroundColor);
+                border: 10px solid var(--borderColor);     
+                padding: var(--myPadding);
+}
