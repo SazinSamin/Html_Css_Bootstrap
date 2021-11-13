@@ -1,1 +1,8 @@
-text-decoration: underline;
+text-decoration: underline; <u>
+font-style: italic; <em>
+
+// line cut
+decoration: line-through; <s>
+
+// horizontal line
+<hr>
