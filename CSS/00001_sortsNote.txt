@@ -6,3 +6,13 @@ decoration: line-through; <s>
 
 // horizontal line
 <hr>
+
+
+// opacity increase the tranparency of the whole tag, means that tag or class child also inherit the opacity
+opacity: 0.3;
+
+font-weight: 100;
+
+
+// vertical space between line
+line-height: 25px;
