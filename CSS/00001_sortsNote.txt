@@ -32,3 +32,15 @@ p::after{
     content: "Next";
     background-color: red;
 }
+
+
+
+button:hover{
+    // this will keep the animation alive when you hover over the elements or do somethings else.
+    animation-fill-mode: forwards;
+}
+
+
+
+
+
