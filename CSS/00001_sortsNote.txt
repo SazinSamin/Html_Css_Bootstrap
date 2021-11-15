@@ -35,6 +35,10 @@ p::after{
 
 
 
+// spacify animation iteration count
+animation-iteration-count: infinite;
+
+
 button:hover{
     // this will keep the animation alive when you hover over the elements or do somethings else.
     animation-fill-mode: forwards;
