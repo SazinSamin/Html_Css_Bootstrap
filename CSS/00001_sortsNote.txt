@@ -20,3 +20,15 @@ line-height: 25px;
 
 // skew an element
 transform: skewX(24deg);
+
+
+// add content(like text) before or after any tag element
+p::before{
+    content: "Future ";
+    background-color: yellow;
+}
+
+p::after{
+    content: "Next";
+    background-color: red;
+}
