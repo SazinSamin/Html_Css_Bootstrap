@@ -34,6 +34,11 @@ p::after{
 }
 
 
+// this methods control how animation work like, in first it move fast then slow, or the reverse.
+animation-timing-function: ease-out;
+
+
+
 
 // spacify animation iteration count
 animation-iteration-count: infinite;
