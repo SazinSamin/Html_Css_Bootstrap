@@ -34,3 +34,7 @@ Relative units, such as em or rem, are relative to another length value. For exa
 
 
 # HTML5 introduced several new elements that give developers more options while also incorporating accessibility features. These tags include main, header, footer, nav, article, and section, among others.
+
+
+# The section element is also new with HTML5, and has a slightly different semantic meaning than article. An article is for standalone content, and a section is for grouping thematically related content. They can be used within each other, as needed. For example, if a book is the article, then each chapter is a section. When there's no relationship between groups of content, then use a div.
+<div> - groups content <section> - groups related content <article> - groups independent, self-contained content
