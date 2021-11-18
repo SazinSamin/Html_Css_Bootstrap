@@ -58,5 +58,17 @@ button:hover{
 float: left;
 
 
+// make an element stick to that position.
+position: sticky;
 
 
+// https://www.freecodecamp.org/learn/re
+// z-index property can specify the order of how elements are stacked on top of one another and higher values for the z-index property of an element move it higher in the stack than those with lower values.
+// I have found that it doesn't work without give position property absolute.
+
+z-index: 1;
+
+
+
+// make margin auto will give a center position of your element
+margin: auto;
