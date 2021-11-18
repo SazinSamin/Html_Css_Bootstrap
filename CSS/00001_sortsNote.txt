@@ -53,3 +53,10 @@ button:hover{
 
 
 
+// by "float" property we can set an element horizontal position
+// https://www.w3schools.com/css/css_float.asp
+float: left;
+
+
+
+
