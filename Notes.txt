@@ -27,3 +27,10 @@ Relative units, such as em or rem, are relative to another length value. For exa
   However, the order of the class declarations in the <style> section is what is important. The second declaration will always take         precedence over the first.
   
 #c id has more predence over class.
+
+
+
+
+
+
+# HTML5 introduced several new elements that give developers more options while also incorporating accessibility features. These tags include main, header, footer, nav, article, and section, among others.
