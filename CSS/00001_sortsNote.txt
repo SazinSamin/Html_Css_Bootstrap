@@ -86,3 +86,12 @@ img {
   height: auto;
 }
 
+
+
+
+// https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+
