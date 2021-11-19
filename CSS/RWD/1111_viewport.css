@@ -1,8 +1,7 @@
-body{
-        background: url(/img/library.jpg);
-        background-repeat: no-repeat;
+/* https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive */
+/* https://www.w3schools.com/css/css_rwd_viewport.asp */
 
-        /* contain background size will reshape the image size accroding to the screen size */
-        /* It will not let the image to go outside it's bound */
-        background-size:contain;
+p{
+  /* 30vmin cover minimum 30% of the viewport */
+  width: 30vmin;
 }
