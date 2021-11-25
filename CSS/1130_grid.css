@@ -1,0 +1,5 @@
+body{
+  /* to get the grid system css, use display: grid */
+  display: grid;
+  grid-row-gap: 50px;
+}
